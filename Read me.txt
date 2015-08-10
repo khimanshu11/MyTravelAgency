@@ -1,0 +1,12 @@
+1. Modified an existing template as per my requirement
+2. Created photoshop files and committed in 'Designer files' folder
+3. Modified html code as per my requirement
+4. Added 2 Google Chart on the 'STATICS' page
+	a. Chart 1: Stacked Bar chart. 
+	b. Chart 2: Donut chart.
+5. Added my current location map with custom marker.
+6. Made map non-scrollable using mouse scroll bar
+7. Added javascript code for client side validation for
+8. Include html5 'header', 'footer', 'video', 'audio' and others as per requirement
+9. Downloaded XML data from internet and saved into 'data.xml' in 'xmlData' folder, implemented JavaScript function to create table using XML data. You can see table on 'STATICS' page
+10. Added carousal on home page using different image

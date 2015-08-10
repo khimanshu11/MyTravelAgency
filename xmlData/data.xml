@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Infogempa>
+   <Gempa>
+      <Tanggal>09/08/2015-09:37:50 WIB</Tanggal>
+      <point>
+         <coordinates>-6.71, 107.76</coordinates>
+      </point>
+      <Posisi>6.71 LS 107.76 BT</Posisi>
+      <Magnitude>3.2 SR</Magnitude>
+      <Kedalaman>10 Km</Kedalaman>
+      <_symbol>../gambar/k1.gif</_symbol>
+      <Keterangan>Pusat gempa berada di darat 16 km Selatan Subang</Keterangan>
+      <Dirasakan>I-II	Bandung,</Dirasakan>
+   </Gempa>
+   <Gempa>
+      <Tanggal>07/08/2015-17:59:13 WIB</Tanggal>
+      <point>
+         <coordinates>-4.21, 121.62</coordinates>
+      </point>
+      <Posisi>4.21 LS 121.62 BT</Posisi>
+      <Magnitude>4.2 SR</Magnitude>
+      <Kedalaman>10 Km</Kedalaman>
+      <_symbol>../gambar/k1.gif</_symbol>
+      <Keterangan>Pusat gempa berada di darat 41 km Tenggara Kolaka</Keterangan>
+      <Dirasakan>III	Baula, II-III	Wundulako, II	Pomalaa,</Dirasakan>
+   </Gempa>
+   <Gempa>
+      <Tanggal>07/08/2015-07:05:04 WIB</Tanggal>
+      <point>
+         <coordinates>-7.25, 108.26</coordinates>
+      </point>
+      <Posisi>7.25 LS 108.26 BT</Posisi>
+      <Magnitude>2.4 SR</Magnitude>
+      <Kedalaman>10 Km</Kedalaman>
+      <_symbol>../gambar/k1.gif</_symbol>
+      <Keterangan>Pusat gempa berada didarat 13Km TimurLaut KOTA-TASIKMALAYA</Keterangan>
+      <Dirasakan>II-III	Tasikmalaya, II-III	Ciamis,</Dirasakan>
+   </Gempa>
+   <Gempa>
+      <Tanggal>06/08/2015-17:08:56 WIB</Tanggal>
+      <point>
+         <coordinates>1, 98.84</coordinates>
+      </point>
+      <Posisi>1 LU 98.84 BT</Posisi>
+      <Magnitude>5 SR</Magnitude>
+      <Kedalaman>46 Km</Kedalaman>
+      <_symbol>../gambar/k1.gif</_symbol>
+      <Keterangan>Pusat gempa berada di laut 64 km BaratDaya PADANGSIDEMPUAN</Keterangan>
+      <Dirasakan>II-III	Padang Sidempuan, II-III	Mandailing Natal, II-III	Aek Godang, I-II	Sibolga,</Dirasakan>
+   </Gempa>
+   <Gempa>
+      <Tanggal>06/08/2015-12:05:46 WIB</Tanggal>
+      <point>
+         <coordinates>-10, 115.93</coordinates>
+      </point>
+      <Posisi>10 LS 115.93 BT</Posisi>
+      <Magnitude>5.3 SR</Magnitude>
+      <Kedalaman>10 Km</Kedalaman>
+      <_symbol>../gambar/k1.gif</_symbol>
+      <Keterangan>Pusat gempa berada di laut 145 km Tenggara KLUNGKUNG</Keterangan>
+      <Dirasakan>II-III	Denpasar, II-III	Sanglah, II-III	Kediri-Lombok Barat, I-II	Mataram,</Dirasakan>
+   </Gempa>
+   <Gempa>
+      <Tanggal>04/08/2015-03:36:02 WIB</Tanggal>
+      <point>
+         <coordinates>-3.6, 136.21</coordinates>
+      </point>
+      <Posisi>3.6 LS 136.21 BT</Posisi>
+      <Magnitude>4.8 SR</Magnitude>
+      <Kedalaman>102 Km</Kedalaman>
+      <_symbol>../gambar/k1.gif</_symbol>
+      <Keterangan>Pusat gempa berada di darat 30 km BaratLaut PANIAI</Keterangan>
+      <Dirasakan>III	Enarotali,</Dirasakan>
+   </Gempa>
+   <Gempa>
+      <Tanggal>04/08/2015-02:55:39 WIB</Tanggal>
+      <point>
+         <coordinates>4.61, 95.02</coordinates>
+      </point>
+      <Posisi>4.61 LU 95.02 BT</Posisi>
+      <Magnitude>5.1 SR</Magnitude>
+      <Kedalaman>49 Km</Kedalaman>
+      <_symbol>../gambar/k1.gif</_symbol>
+      <Keterangan>Pusat gempa berada di Laut 77 Km BaratDaya Kab.Aceh Jaya</Keterangan>
+      <Dirasakan>III	Banda Aceh,</Dirasakan>
+   </Gempa>
+   <Gempa>
+      <Tanggal>03/08/2015-06:31:37 WIB</Tanggal>
+      <point>
+         <coordinates>-3.27, 128.67</coordinates>
+      </point>
+      <Posisi>3.27 LS 128.67 BT</Posisi>
+      <Magnitude>4.6 SR</Magnitude>
+      <Kedalaman>41 Km</Kedalaman>
+      <_symbol>../gambar/k1.gif</_symbol>
+      <Keterangan>Pusat gempa berada di darat 28 km BaratLaut Amahai</Keterangan>
+      <Dirasakan>II-III	Amahai, II-III	Elpaputih,</Dirasakan>
+   </Gempa>
+   <Gempa>
+      <Tanggal>03/08/2015-05:14:19 WIB</Tanggal>
+      <point>
+         <coordinates>-4.27, 102.35</coordinates>
+      </point>
+      <Posisi>4.27 LS 102.35 BT</Posisi>
+      <Magnitude>4.8 SR</Magnitude>
+      <Kedalaman>34 Km</Kedalaman>
+      <_symbol>../gambar/k1.gif</_symbol>
+      <Keterangan>Pusat gempa berada di laut 49 km BaratDaya Seluma</Keterangan>
+      <Dirasakan>II	Kepahiang, II-III	Bengkulu,</Dirasakan>
+   </Gempa>
+   <Gempa>
+      <Tanggal>02/08/2015-13:35:35 WIB</Tanggal>
+      <point>
+         <coordinates>-1.81, 100</coordinates>
+      </point>
+      <Posisi>1.81 LS 100 BT</Posisi>
+      <Magnitude>4.7 SR</Magnitude>
+      <Kedalaman>24 Km</Kedalaman>
+      <_symbol>../gambar/k1.gif</_symbol>
+      <Keterangan>Pusat gempa berada di laut 56 km Timur Laut Mentawai</Keterangan>
+      <Dirasakan>II	Painan,</Dirasakan>
+   </Gempa>
+   <Gempa>
+      <Tanggal>02/08/2015-04:07:33 WIB</Tanggal>
+      <point>
+         <coordinates>-4.88, 104.03</coordinates>
+      </point>
+      <Posisi>4.88 LS 104.03 BT</Posisi>
+      <Magnitude>3.9 SR</Magnitude>
+      <Kedalaman>10 Km</Kedalaman>
+      <_symbol>../gambar/k1.gif</_symbol>
+      <Keterangan>Pusat gempa berada di darat 28 km Tenggara Ogan Komering Ulu Selatan</Keterangan>
+      <Dirasakan>II-III	Liwa,</Dirasakan>
+   </Gempa>
+   <Gempa>
+      <Tanggal>02/08/2015-03:41:53 WIB</Tanggal>
+      <point>
+         <coordinates>-7.72, 110.68</coordinates>
+      </point>
+      <Posisi>7.72 LS 110.68 BT</Posisi>
+      <Magnitude>3.7 SR</Magnitude>
+      <Kedalaman>18 Km</Kedalaman>
+      <_symbol>../gambar/k1.gif</_symbol>
+      <Keterangan>Pusat gempa berada di darat 9 Km Tenggara Klaten</Keterangan>
+      <Dirasakan>II-III	Klaten, II-III	Imogiri, II-III	Bantul,</Dirasakan>
+   </Gempa>
+   <Gempa>
+      <Tanggal>01/08/2015-05:26:07 WIB</Tanggal>
+      <point>
+         <coordinates>-8.12, 118.2</coordinates>
+      </point>
+      <Posisi>8.12 LS 118.2 BT</Posisi>
+      <Magnitude>5.1 SR</Magnitude>
+      <Kedalaman>10 Km</Kedalaman>
+      <_symbol>../gambar/k1.gif</_symbol>
+      <Keterangan>Pusat gempa berada dilaut 22Km TimurLaut Bima</Keterangan>
+      <Dirasakan>II	Bima,</Dirasakan>
+   </Gempa>
+   <Gempa>
+      <Tanggal>28/07/2015-09:38:47 WIB</Tanggal>
+      <point>
+         <coordinates>-2.75, 122.4</coordinates>
+      </point>
+      <Posisi>2.75 LS 122.4 BT</Posisi>
+      <Magnitude>5.1 SR</Magnitude>
+      <Kedalaman>10 Km</Kedalaman>
+      <_symbol>../gambar/k1.gif</_symbol>
+      <Keterangan>Pusat gempa berada di laut 78 km TimurLaut KONAWEUTARA</Keterangan>
+      <Dirasakan>II	Wanggudu,</Dirasakan>
+   </Gempa>
+   <Gempa>
+      <Tanggal>28/07/2015-04:41:23 WIB</Tanggal>
+      <point>
+         <coordinates>-2.87, 138.53</coordinates>
+      </point>
+      <Posisi>2.87 LS 138.53 BT</Posisi>
+      <Magnitude>7.2 SR</Magnitude>
+      <Kedalaman>49 Km</Kedalaman>
+      <_symbol>../gambar/k1.gif</_symbol>
+      <Keterangan>Pusat gempa berada di Darat 75 km Tenggara MAMBERAMORAYA</Keterangan>
+      <Dirasakan>II-III	Jayapura, IV	Sarmi, III	Wamena, II-III	Sentani, II-III	Biak, II-III	Nabire, II	Merauke, V	Memberamo Raya, III	Serui, II-III	Mulia,</Dirasakan>
+   </Gempa>
+   <Gempa>
+      <Tanggal>27/07/2015-15:52:19 WIB</Tanggal>
+      <point>
+         <coordinates>-0.88, 126.82</coordinates>
+      </point>
+      <Posisi>0.88 LS 126.82 BT</Posisi>
+      <Magnitude>4.6 SR</Magnitude>
+      <Kedalaman>10 Km</Kedalaman>
+      <_symbol>../gambar/k1.gif</_symbol>
+      <Keterangan>Pusat gempa berada di laut 193.5 km BaratDaya Ternate</Keterangan>
+      <Dirasakan>I-II	Labuha,</Dirasakan>
+   </Gempa>
+   <Gempa>
+      <Tanggal>26/07/2015-14:05:05 WIB</Tanggal>
+      <point>
+         <coordinates>-9.44, 112.63</coordinates>
+      </point>
+      <Posisi>9.44 LS 112.63 BT</Posisi>
+      <Magnitude>5.9 SR</Magnitude>
+      <Kedalaman>56 Km</Kedalaman>
+      <_symbol>../gambar/k1.gif</_symbol>
+      <Keterangan>Pusat gempa berada di laut 150 km BaratDaya Kab. Malang</Keterangan>
+      <Dirasakan>III-IV	Malang, III-IV	Blitar, III-IV	Denpasar, III	Jogjakarta, III	Banyuwangi, II-III	Madiun, II-III	Pacitan, II	Bangil, II	Pandaan, II	Surabaya, II-III	Sawahan, II	Probolinggo, II-III	Mataram,</Dirasakan>
+   </Gempa>
+   <Gempa>
+      <Tanggal>26/07/2015-13:21:47 WIB</Tanggal>
+      <point>
+         <coordinates>-0.51, 121.66</coordinates>
+      </point>
+      <Posisi>0.51 LS 121.66 BT</Posisi>
+      <Magnitude>4.7 SR</Magnitude>
+      <Kedalaman>10 Km</Kedalaman>
+      <_symbol>../gambar/k1.gif</_symbol>
+      <Keterangan>Pusat gempa berada di 87 km timurLaut Tojouna-una</Keterangan>
+      <Dirasakan>II-III	Ampana,</Dirasakan>
+   </Gempa>
+   <Gempa>
+      <Tanggal>26/07/2015-01:22:25 WIB</Tanggal>
+      <point>
+         <coordinates>-2.4, 139.36</coordinates>
+      </point>
+      <Posisi>2.4 LS 139.36 BT</Posisi>
+      <Magnitude>5.2 SR</Magnitude>
+      <Kedalaman>10 Km</Kedalaman>
+      <_symbol>../gambar/k1.gif</_symbol>
+      <Keterangan>Pusat gempa berada di darat, 89 km Tenggara Sarmi</Keterangan>
+      <Dirasakan>III	Sarmi,</Dirasakan>
+   </Gempa>
+   <Gempa>
+      <Tanggal>25/07/2015-20:50:43 WIB</Tanggal>
+      <point>
+         <coordinates>-0.38, 100.44</coordinates>
+      </point>
+      <Posisi>0.38 LS 100.44 BT</Posisi>
+      <Magnitude>3 SR</Magnitude>
+      <Kedalaman>10 Km</Kedalaman>
+      <_symbol>../gambar/k1.gif</_symbol>
+      <Keterangan>Pusat gempa berada di darat, 10 km Timur Laut Padang Panjang</Keterangan>
+      <Dirasakan>II	Padang Panjang,</Dirasakan>
+   </Gempa>
+</Infogempa>
